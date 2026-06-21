@@ -1,0 +1,12 @@
+networkx
+matplotlib
+openai
+fastapi
+uvicorn
+pydantic
+python-dotenv
+numpy
+langchain
+langchain-openai
+langchain-community
+
